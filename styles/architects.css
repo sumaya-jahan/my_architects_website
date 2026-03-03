@@ -176,6 +176,27 @@ main>section{
   }
 }
 
+/* feature section related style */
+#feature-section-title{
+  border-left:5px solid #FF900E;
+  padding-left: 21px;;
+}
+.feature-card .feature-title{
+  font-weight: 600;
+  font-size: 1.25rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+ 
+}
+.feature-card{
+  padding: 30px;
+  box-shadow: 0 4px 30px 0;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+.features{
+  gap: 140px;
+}
 
 
 /* medium size device */
